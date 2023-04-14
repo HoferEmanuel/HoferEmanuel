@@ -7,6 +7,6 @@ One of my main focuses in programming is optimization and creating reusable code
 
 <hr />
 
-[![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,ableton,blender,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal,cpp,unity,visualstudio,gamemakerstudio,blender,autocad,ableton)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,idea,py)](https://skillicons.dev)
