@@ -20,5 +20,9 @@ One of my main focuses in programming is optimization and creating reusable code
 
 <hr/>
 
-![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelHofer&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelHofer&theme=dark)](https://github.com/EmanuelHofer/github-readme-stats)
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoferEmanuel&show_icons=true&theme=dark)](https://github.com/HoferEmanuel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoferEmanuel&theme=dark)](https://github.com/HoferEmanuel/github-readme-stats)
+
+</div>
