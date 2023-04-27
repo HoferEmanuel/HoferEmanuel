@@ -2,7 +2,7 @@
 
 
 
-**`Game Dev.`** **`Application Dev.`**
+**`Game Dev.`**
 
 Hi there! I'm a passionate programmer who loves creating games and exploring the world of software development. While I'm still learning a lot, I've already created several game prototypes and I'm excited to continue developing my skills as a self-thaught game developer.
 
