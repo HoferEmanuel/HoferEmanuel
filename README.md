@@ -1,14 +1,10 @@
 # Emanuel Hofer
 
-
-
 **`Game Dev.`**
 
 Hi there! I'm a passionate programmer who loves creating games and exploring the world of software development. While I'm still learning a lot, I've already created several game prototypes and I'm excited to continue developing my skills as a self-thaught game developer.
 
 One of my main focuses in programming is optimization and creating reusable code that can be used across different systems. I believe that efficient code is not only more satisfying to write, but also leads to better performance and more polished products.
-
-
 
 <div align="center">
   
@@ -17,11 +13,9 @@ One of my main focuses in programming is optimization and creating reusable code
 
 <br />
 
-
 ## work-tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,idea,py)](https://skillicons.dev)
 </div>
-
 
  <br />
 
@@ -45,5 +39,6 @@ One of my main focuses in programming is optimization and creating reusable code
       <img height=185 src="https://github-readme-stats.vercel.app/api?username=HoferEmanuel&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=buefy#gh-light-mode-only" alt="Emanuel's Github stats" />
     </a>
   </div>
-
 </div>
+
+[Pixel](Images/PixelFloor.png)
