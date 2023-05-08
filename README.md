@@ -41,4 +41,4 @@ One of my main focuses in programming is optimization and creating reusable code
   </div>
 </div>
 
-[Pixel](Images/PixelFloor.png)
+![PixelFloor](Images/PixelFloor.png)
