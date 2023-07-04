@@ -43,16 +43,4 @@ One of my main focuses in programming is optimization and creating reusable code
 
 <br />
 
-<div align="center">
-
-| Name     | Link |
-| ---      | ---       |
-| UnitySystemCollection | https://github.com/HoferEmanuel/UnitySystemCollection.git |
-| CPP_W3Schools | https://github.com/HoferEmanuel/CPP_W3Schools.git |
-| OpenHPI_Courses | https://github.com/HoferEmanuel/OpenHPI_Courses.git |
-  
-</div>
-
-<br />
-
 ![PixelFloor](Images/PixelFloor.png)
