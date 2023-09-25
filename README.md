@@ -9,7 +9,7 @@ One of my main focuses in programming is optimization and creating reusable code
 <div align="center">
   
 ## personal-tools:
-[![My Skills](https://skillicons.dev/icons?i=unreal,cpp,unity,visualstudio,gamemakerstudio,blender,autocad,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,unreal,cpp,unity,visualstudio,gamemakerstudio,blender,autocad,ableton)](https://skillicons.dev)
 
 <br />
 
