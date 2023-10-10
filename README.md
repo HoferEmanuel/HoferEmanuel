@@ -14,7 +14,7 @@ One of my main focuses in programming is optimization and creating reusable code
 <br />
 
 ## work-tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,idea,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,idea,java,py,github)](https://skillicons.dev)
 </div>
 
  <br />
