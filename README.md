@@ -9,12 +9,12 @@ One of my main focuses in programming is optimization and creating reusable code
 <div align="center">
   
 ## personal-tools:
-[![My Skills](https://skillicons.dev/icons?i=godot,unreal,cpp,unity,visualstudio,dotnet,gamemakerstudio,blender,autocad,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,unreal,cpp,unity,visualstudio,dotnet,py,raspberrypi,gamemakerstudio,blender,autocad,ableton)](https://skillicons.dev)
 
 <br />
 
 ## work-tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,bootstrap,vscode,idea,java,py,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,bootstrap,vscode,idea,java,github,mysql)](https://skillicons.dev)
 </div>
 
  <br />
