@@ -17,6 +17,4 @@ One of my main focuses in programming is optimization and creating reusable code
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,bootstrap,vscode,idea,java,github,mysql)](https://skillicons.dev)
 </div>
 
- <br />
-
-![PixelFloor](Images/PixelFloor.png)
+ 
